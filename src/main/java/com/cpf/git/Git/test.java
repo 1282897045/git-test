@@ -11,6 +11,7 @@ public class test {
         System.out.println("hello git2 !");
         System.out.println("hello git5 !");
         System.out.println("push test!");
+        System.out.println("pull test!");
 
     }
 }
